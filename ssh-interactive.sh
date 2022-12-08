@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 echo $'\nWelcome to SSH Interactive\n--------------------------\ncode by ikromnurrohim\n\nPlease select one\n\n[1] SSH with username and password\n[2] SSH with username and identify file\n'
 read -p $'Enter the choice number [1/2] :' selected_choice
 
