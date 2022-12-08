@@ -29,3 +29,14 @@ or
 ```bash
 bash ssh-interactive.sh
 ```
+<br>
+
+## Sample
+#### SSH with username and password
+![Screenshot from 2022-12-08 23-59-39](https://user-images.githubusercontent.com/59647417/206516458-4c02f553-2e2c-4e20-b92a-b3ef2d7dc95b.png)
+
+#### SSH with username and Identify file
+![Screenshot from 2022-12-09 00-00-09](https://user-images.githubusercontent.com/59647417/206516736-9d5240b4-20f9-47e7-a430-bee53613c1db.png)
+ 
+
+
