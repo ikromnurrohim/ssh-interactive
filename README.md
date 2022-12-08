@@ -21,7 +21,7 @@ curl -L https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/For
 ```
 <br>
 
-## To Running SSH Interactive
+## Running SSH Interactive
 ```bash
 ./ssh-interactive.sh
 ```
